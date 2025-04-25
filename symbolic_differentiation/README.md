@@ -7,9 +7,7 @@ The expression format is (func arg1) or (op arg1 arg2) where op means operator, 
 The expressions will always have balanced parentesis and with spaces between list items.
 
 Expression operators, functions and arguments will all be lowercase.
-
 Expressions are single variable expressions using x as the variable.
-
 Expressions can have nested arguments at any depth for example (+ (* 1 x) (* 2 (+ x 1)))
 
 Examples of prefix notation in this format:
@@ -46,4 +44,4 @@ Think recursively and build your answer according to the rules of derivation and
 
 If you need to diff any test expressions you can use Wolfram Alpha however remember we use prefix format in this kata.
 
-Best of luck !
+Best of luck !new format
